@@ -69,14 +69,14 @@
    4. O tipo do dado digitado difere do tipo esperado no banco?
    5. O saldo do cliente cobre o valor da compra?
    ========================================================================== */
-   let idade = 17;
-   let codFormulário = "100";
-   let codBanco = 100;
-   let saldoDisponivel = 250.00;
-   let valorCompra = 250.00
+   const idade = 17;
+   const codFormulário = "100";
+   const codBanco = 100;
+   const saldoDisponivel = 250.00;
+   const valorCompra = 250.00
 
    
-
+   const idade >= 18;
 
 
 
